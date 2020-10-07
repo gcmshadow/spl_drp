@@ -1,4 +1,4 @@
-setupRequired(fgcmical)
+setupRequired(fgcmcal)
 setupRequired(jointcal)
 setupRequired(sdm_schemas)
 setupRequired(validate_drp)
