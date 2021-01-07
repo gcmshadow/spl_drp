@@ -1,1 +1,2 @@
 spl_plugins:u_gcm_shadow
+spl_workflows:u_gcm_shadow
